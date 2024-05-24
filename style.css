@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Fredoka;
+}
+
+.nav {
+    height: 80px;
+}
+.nav h1 {
+    margin-left: 300px;
+    padding: 20px;
+    text-align: left;   
+}
+.secao-principal {
+    background-image: url(arquivos/capa.jpg);
+    background-size: cover;
+    min-height: 600px;
+    text-align: right;
+    font-weight: bold;
+    font-size: 20px;
+}
+.secao-principal h2 {
+    padding-top: 80px;
+    padding-right: 300px;
+}
+.secao-principal h3 {
+    padding-right: 300px;
+}
+.container {
+    height: 400px;
+    margin-top: 30px;
+    text-align: center;
+}
+.sobre-nos {
+    margin-top: 25px;
+}
+.sobre-nos p ,.sobre-nos h4, .sobre-nos li {
+    margin: 0 auto;
+    text-align: justify;
+    width: 800px;
+}
+.sobre-nos h4 {
+    margin-top: 50px;
+    font-size: 20px;
+}
+.sobre-nos p {
+    margin-top: 10px;
+}
+.sobre-nos img {
+    margin-top: 25px;
+    width: 263px;
+}
+.sobre-nos .p-destaque {
+    width: 780px;
+}
+.p-destaque {
+    font-size: 20px;
+    border-left: 1px solid;
+    padding-left: 20px;
+}
+.info {
+    background-image: url(arquivos/fundo.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 150px;
+    text-align: right;
+    font-weight: bold;
+    font-size: 20px;
+}
+.center-info{
+    padding-top: 55px;
+}
+.info h4 {
+    font-size: 30px;
+    padding: 10px;
+    margin: 0 auto;
+    width: 200px;
+    background-color: #ffffff;
+    color: #000000;
+    text-align: center;
+    border-radius: 25px;
+}
+.sobre-nos p {
+    font-size: 18px;
+    margin-top: 20px;
+}
+.sobre-nos ul {
+    margin-top: 20px;
+    margin-bottom: 80px;
+}
+.sobre-nos li {
+    width: 750px;
+}
